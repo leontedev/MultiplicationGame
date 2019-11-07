@@ -85,7 +85,7 @@ struct ContentView: View {
 
                 
                 
-            }.navigationBarTitle(Text("Multiple mX"))
+            }.navigationBarTitle(Text("MultipleX"))
         }
         
     }
